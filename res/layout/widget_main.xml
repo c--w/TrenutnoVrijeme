@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="@dimen/widget_margin" >
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:minHeight="60dp"
+        android:minWidth="100dp" >
+
+        <ImageView
+            android:id="@+id/img1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:adjustViewBounds="true"
+            android:contentDescription="TODO"
+            android:scaleType="centerInside"
+            android:src="@drawable/default200" >
+        </ImageView>
+
+        <TextView
+            android:id="@+id/title1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|right"
+            android:background="#80000000"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="PG Vrijeme - učitavanje..."
+            android:textColor="#ffffff"
+            android:textSize="12dp" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/background_share2"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="@string/osvje_avanje_u_tijeku_"
+            android:textColor="#ffffff"
+            android:textSize="11dp"
+            android:visibility="gone" >
+        </TextView>
+
+        <LinearLayout
+            android:id="@+id/action_buttons"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone" >
+
+            <ImageView
+                android:id="@+id/refresh"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:layout_margin="15dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/background_share"
+                android:contentDescription="-"
+                android:padding="5dp"
+                android:src="@drawable/ic_menu_refresh"
+                android:visibility="visible" >
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/view_full_screen"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:layout_margin="15dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/background_share"
+                android:contentDescription="-"
+                android:src="@android:drawable/ic_menu_view"
+                android:visibility="visible" >
+            </ImageView>
+        </LinearLayout>
+    </FrameLayout>
+
+</FrameLayout>

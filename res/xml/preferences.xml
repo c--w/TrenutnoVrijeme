@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="UI postavke" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="useFavorite"
+            android:summaryOff="Pri pokretanju prvo pokaži najčešće korištene opcije"
+            android:summaryOn="Pri pokretanju automatski učitaj najčešće korištenu opciju"
+            android:title="Pokretanje" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="animations"
+            android:summary="Koristi tranzicijski efekt pri pojavi nove slike (fade-in, slide)?"
+            android:title="Tranzicijski efekt" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Intervali..." >
+        <ListPreference
+            android:defaultValue="30"
+            android:entries="@array/intervalWidgetTitle"
+            android:entryValues="@array/intervalWidgetValues"
+            android:key="widget_interval"
+            android:summary="Interval u minutama za osvježavanje widgeta."
+            android:title="Widget interval" />
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/intervalTitle"
+            android:entryValues="@array/intervalValues"
+            android:key="jap_interval"
+            android:summary="Interval u minutama za pomicanje po povijesti slika trenutnog dana."
+            android:title="JAP Webcam interval" />
+        <ListPreference
+            android:defaultValue="2"
+            android:entries="@array/intervalTitleKOKA"
+            android:entryValues="@array/intervalValuesKOKA"
+            android:key="koka_interval"
+            android:summary="Interval u minutama za pomicanje po povijesti slika trenutnog dana."
+            android:title="KOKA Webcam interval" />
+        <ListPreference
+            android:defaultValue="10"
+            android:entries="@array/intervalTitle"
+            android:entryValues="@array/intervalValues"
+            android:key="roc_interval"
+            android:summary="Interval u minutama za pomicanje po povijesti slika trenutnog dana."
+            android:title="ROČ/Buzet Webcam interval" />
+        <ListPreference
+            android:defaultValue="10"
+            android:entries="@array/intervalTitleArso"
+            android:entryValues="@array/intervalValuesArso"
+            android:key="arso_interval"
+            android:summary="Interval u minutama za pomicanje po povijesti slika trenutnog dana."
+            android:title="ARSO webcams interval" />
+        <ListPreference
+            android:defaultValue="1000"
+            android:entries="@array/intervalAnimationTitle"
+            android:entryValues="@array/intervalAnimationValue"
+            android:key="animation_interval"
+            android:summary="Interval između kadrova animacije."
+            android:title="Interval animacije" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Održavanje" >
+        <Preference
+            android:key="imageCache"
+            android:title="Obriši cache slika" />
+        <Preference
+            android:key="clearUsage"
+            android:summary="Obriši statistiku najčešće korištenih opcija"
+            android:title="Obriši statistiku" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

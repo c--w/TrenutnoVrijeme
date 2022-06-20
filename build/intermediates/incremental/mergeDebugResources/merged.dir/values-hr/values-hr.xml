@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intervalAnimationTitle">
+        <item>0.5s</item>
+        <item>0.8s</item>
+        <item>1s</item>
+        <item>1.5s</item>
+        <item>2s</item>
+    </string-array>
+    <string-array name="intervalAnimationValue">
+        <item>500</item>
+        <item>800</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+    </string-array>
+    <string-array name="intervalTitle">
+        <item>1m</item>
+        <item>5m</item>
+        <item>10m</item>
+        <item>20m</item>
+    </string-array>
+    <string-array name="intervalTitleArso">
+        <item>10m</item>
+        <item>30m</item>
+        <item>60m</item>
+    </string-array>
+    <string-array name="intervalTitleKOKA">
+        <item>2m</item>
+        <item>6m</item>
+        <item>30m</item>
+    </string-array>
+    <string-array name="intervalValues">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="intervalValuesArso">
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="intervalValuesKOKA">
+        <item>2</item>
+        <item>6</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="intervalWidgetTitle">
+        <item>2m</item>
+        <item>5m</item>
+        <item>10m</item>
+        <item>30m</item>
+        <item>1h</item>
+        <item>3h</item>
+        <item>6h</item>
+        <item>12h</item>
+    </string-array>
+    <string-array name="intervalWidgetValues">
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>720</item>
+    </string-array>
+    <string-array name="widgetOptions">
+        <item>@string/sat24_hr</item>
+        <item>@string/sat24_eu</item>
+        <item>@string/radar_bilogora</item>
+        <item>@string/radar_osijek</item>
+        <item>@string/radar_puntijarka</item>
+        <item>@string/radar_kompozitni</item>
+        <item>@string/radar_lisca</item>
+        <item>@string/radar_fossalon</item>
+        <item>@string/munje</item>
+        <item>@string/slo_al_danas_925_12z</item>
+        <item>@string/slo_al_danas_850_12z</item>
+        <item>@string/slo_al_danas_naoblaka_12z</item>
+        <item>@string/slo_al_sutra_925_12z</item>
+        <item>@string/slo_al_sutra_850_12z</item>
+        <item>@string/slo_al_sutra_naoblaka_12z</item>
+        <item>@string/slo_al_prekosutra_925_12z</item>
+        <item>@string/slo_al_prekosutra_850_12z</item>
+        <item>@string/slo_al_prekosutra_naoblaka_12z</item>
+        <item>@string/dhmz_danas</item>
+        <item>@string/dhmz_sutra</item>
+        <item>@string/dhmz_1</item>
+        <item>@string/dhmz_2</item>
+        <item>@string/dhmz_3</item>
+        <item>@string/meteogram_3d_zagreb</item>
+        <item>@string/meteogram_3d_varazdin</item>
+        <item>@string/meteogram_3d_rijeka</item>
+        <item>@string/meteogram_3d_sinj</item>
+        <item>@string/meteogram_3d_plitvice</item>
+        <item>@string/meteogram_3d_motovun</item>
+        <item>@string/webcam_jap</item>
+        <item>@string/webcam_koka</item>
+        <item>@string/webcam_sljeme</item>
+        <item>@string/webcam_brnik</item>
+        <item>@string/webcam_lisca</item>
+        <item>@string/webcam_kredarica</item>
+        <item>@string/webcam_bovec</item>
+        <item>@string/webcam_murska_sobota</item>
+        <item>@string/webcam_koper</item>
+        <item>@string/modis_terra</item>
+        <item>@string/modis_aqua</item>
+        <item>@string/modis_slika_dana</item>
+    </string-array>
+    <item name="ANIMATION" type="id"/>
+    <string name="aladin_dubr_3d">Aladin DUBROVNIK - 3d</string>
+    <string name="aladin_hr_3d">Aladin HR vjetar - 3d</string>
+    <string name="aladin_hr_ob_3d">Aladin HR oborine - 3d</string>
+    <string name="aladin_masl_3d">Aladin ZADAR - 3d</string>
+    <string name="aladin_senj_3d">Aladin ISTRA/KVARNER - 3d</string>
+    <string name="aladin_spli_3d">Aladin SPLIT - 3d</string>
+    <string name="app_name">PG Vrijeme</string>
+    <string name="arso_slo_jutri_pojutri">ARSO SLO jutri/pojutri</string>
+    <string name="blipmap_bl">BLIPMAP inverzija 3d</string>
+    <string name="blipmap_cumul">BLIPMAP baze kum. 3d</string>
+    <string name="blipmap_up">BLIPMAP termika 3d</string>
+    <string name="cape_3d_ma_">CAPE - 3d (MA)</string>
+    <string name="cape_3d_mi_">CAPE - 3d (MI)</string>
+    <string name="dhmz_1">DHMZ +1</string>
+    <string name="dhmz_2">DHMZ +2</string>
+    <string name="dhmz_3">DHMZ +3</string>
+    <string name="dhmz_3d_pu_os_st">DHMZ 3d - PU/OS/ST</string>
+    <string name="dhmz_3d_zg_vz_ri">DHMZ 3d - ZG/VŽ/RI</string>
+    <string name="dhmz_7d_pu_os_st">DHMZ 7d - PU/OS/ST</string>
+    <string name="dhmz_7d_zg_vz_ri">DHMZ 7d - ZG/VŽ/RI</string>
+    <string name="dhmz_akt">Aktualno - DHMZ</string>
+    <string name="dhmz_danas">DHMZ danas</string>
+    <string name="dhmz_hr_3d">DHMZ HR - 3d</string>
+    <string name="dhmz_hr_danas_sutra">DHMZ danas/sutra/tlak</string>
+    <string name="dhmz_hr_danas_sutra_w">HR danas/sutra - opis</string>
+    <string name="dhmz_hr_danas_sutra_zg">ZG danas/sutra - opis</string>
+    <string name="dhmz_sutra">DHMZ sutra</string>
+    <string name="ensemble_15d_pu_os_st">Meteogram 7d PU OS ST</string>
+    <string name="ensemble_15d_pu_os_st_2">Ens 16d 850 PU OS ST</string>
+    <string name="ensemble_15d_zg_vz_ri">Meteogram 7d ZG VZ RI</string>
+    <string name="ensemble_15d_zg_vz_ri_2">Ens 16d 850 ZG VZ RI</string>
+    <string name="help">Pomoć</string>
+    <string name="jap">JAP</string>
+    <string name="koka">KOKA</string>
+    <string name="lcl_3d_ma_">LCL - 3d (MA)</string>
+    <string name="lcl_3d_mi_">LCL - 3d (MI)</string>
+    <string name="meteoadriatic_3d_pu_os_st">MA 3d - PU/OS/ST</string>
+    <string name="meteoadriatic_3d_zg_vz_ri">MA 3d - ZG/VŽ/BP</string>
+    <string name="meteoalarm_hr">Meteoalarm HR</string>
+    <string name="meteoalarm_slo">Meteoalarm SLO</string>
+    <string name="meteogram_3d_motovun">Meteogram 3d Motovun</string>
+    <string name="meteogram_3d_plitvice">Meteogram 3d Plitvice</string>
+    <string name="meteogram_3d_rijeka">Meteogram 3d Rijeka</string>
+    <string name="meteogram_3d_sinj">Meteogram 3d Sinj</string>
+    <string name="meteogram_3d_varazdin">Meteogram 3d Varaždin</string>
+    <string name="meteogram_3d_zagreb">Meteogram 3d Zagreb</string>
+    <string name="modis_aqua">MODIS AQUA</string>
+    <string name="modis_slika_dana">MODIS slika dana</string>
+    <string name="modis_slika_dana2">MODIS slika dana Web</string>
+    <string name="modis_terra">MODIS TERRA</string>
+    <string name="mrf850_tmp_rh_w_1_2_3_">MRF850 TMP,RH,W (+1,+2,+3)</string>
+    <string name="mrf850_tmp_rh_w_4_5_6_">MRF850 TMP,RH,W (+4,+5,+6)</string>
+    <string name="munje">Munje</string>
+    <string name="najave">Najave letenja</string>
+    <string name="naoblaka_3d_ma_">Naoblaka - 3d (MA)</string>
+    <string name="naoblaka_3d_mi_">Naoblaka - 3d (MI)</string>
+    <string name="napoved_beseda_visinske">Napoved letalstvo/višinske</string>
+    <string name="ocijeni_aplikaciju">Ocijeni aplikaciju</string>
+    <string name="olc_danas">OLC danas</string>
+    <string name="op_e_prognoze_">Opće prognoze…</string>
+    <string name="os_ri_sinj_4d_ma_">OS,RI,Sinj - 4d (MA)</string>
+    <string name="osvje_avanje_nije_uspjelo_">Osvježavanje nije uspjelo.</string>
+    <string name="osvje_avanje_u_tijeku_">□ Osvježavanje u tijeku…</string>
+    <string name="pelud_uv_ugoda_hr_">Pelud, UV, Ugoda (HR)</string>
+    <string name="pljusak_trenutno">Aktualno - pljusak.com</string>
+    <string name="poleti_ta_">PG (poletišta/najave…)</string>
+    <string name="pomo_">Pomoć</string>
+    <string name="postavke">Postavke</string>
+    <string name="postavke_pomo_">Postavke/Pomoć</string>
+    <string name="radar_bilogora">Radar Bilogora</string>
+    <string name="radar_fossalon">Radar Fossalon</string>
+    <string name="radar_kompozitni">Radar kompozitni</string>
+    <string name="radar_lisca">Radar Lisca</string>
+    <string name="radar_lisca_tu_a">Radar Lisca tuča</string>
+    <string name="radar_osijek">Radar Osijek</string>
+    <string name="radar_puntijarka">Radar Puntijarka</string>
+    <string name="raspadalica">RASPADALICA</string>
+    <string name="ri_os_st_2d_yrno_">RI,OS,ST - 2d (YRNO)</string>
+    <string name="ri_sinj_motovun_3d_ma_">Meteogram 3d - TR,GR,BU</string>
+    <string name="sat24">SAT24</string>
+    <string name="sat24_bilogora_munje">SAT24/Bilogora/Munje</string>
+    <string name="sat24_eu">SAT24 EU</string>
+    <string name="sat24_eu_ir">SAT24 EU IR</string>
+    <string name="sat24_hr">SAT24 HR</string>
+    <string name="sat24_hr_ir">SAT24 HR IR</string>
+    <string name="sat24_radari">Aktualno (SAT24/Radari…)</string>
+    <string name="skewt_bjelopolje_3d_ma_">SKEWT Bjelopolje - 3d (MA)</string>
+    <string name="skewt_buzet_3d_ma_">SKEWT Buzet - 3d (MA)</string>
+    <string name="skewt_cmc_zg">SKEWT ZG - 3d (CMC)</string>
+    <string name="skewt_greda_3d_ma_">SKEWT Greda - 3d (MA)</string>
+    <string name="skewt_ivanec_3d_ma_">SKEWT Ivanec - 3d (MA)</string>
+    <string name="skewt_jastrebarsko_3d_ma_">SKEWT Jastrebarsko - 3d (MA)</string>
+    <string name="skewt_kalnik_3d_ma_">SKEWT Kalnik - 3d (MA)</string>
+    <string name="skewt_lcl_webcam_modis_">Skewt,LCL,Webcam,Modis…</string>
+    <string name="skewt_lic_3d_ma_">SKEWT Lič - 3d (MA)</string>
+    <string name="skewt_motovun_3d_ma_">SKEWT Motovun - 3d (MA)</string>
+    <string name="skewt_osijek_3d_ma_">SKEWT Osijek - 3d (MA)</string>
+    <string name="skewt_tribalj_3d_ma_">SKEWT Tribalj - 3d (MA)</string>
+    <string name="skewt_zapresic_3d_ma_">SKEWT Zaprešić - 3d (MA)</string>
+    <string name="skewt_zg_3d_mi_">SKEWT ZG - 3d (MI)</string>
+    <string name="sljeme">SLJEME</string>
+    <string name="slo_al_danas_850_12z">SLO Aladin danas 850 12z</string>
+    <string name="slo_al_danas_925_12z">SLO Aladin danas 925 12z</string>
+    <string name="slo_al_danas_naoblaka_12z">SLO Aladin danas naoblaka 12z</string>
+    <string name="slo_al_prekosutra_850_12z">SLO Aladin prekosutra 850 12z</string>
+    <string name="slo_al_prekosutra_925_12z">SLO Aladin prekosutra 925 12z</string>
+    <string name="slo_al_prekosutra_naoblaka_12z">SLO Aladin prekosutra naoblaka 12z</string>
+    <string name="slo_al_sutra_850_12z">SLO Aladin sutra 850 12z</string>
+    <string name="slo_al_sutra_925_12z">SLO Aladin sutra 925 12z</string>
+    <string name="slo_al_sutra_naoblaka_12z">SLO Aladin sutra naoblaka 12z</string>
+    <string name="slo_aladin_2d_danas">SLO Aladin 2d danas</string>
+    <string name="slo_aladin_2d_sutra">SLO Aladin 2d sutra</string>
+    <string name="slo_aladin_3d_danas">SLO Aladin 3d danas</string>
+    <string name="slo_aladin_3d_prekosutra">SLO Aladin 3d prekosutra</string>
+    <string name="slo_aladin_3d_sutra">SLO Aladin 3d sutra</string>
+    <string name="slo_aladin_3d_t_2m">SLO Aladin 3d T 2m</string>
+    <string name="tribalj">TRIBALJ</string>
+    <string name="vjetar_1000m_3d_mi_">Vjetar 1000m - 3d (MI)</string>
+    <string name="vjetar_naoblaka_">Vjetar/Naoblaka/Kiša…</string>
+    <string name="webcam_bovec">Webcam Bovec</string>
+    <string name="webcam_bovec_m_sobota_koper_">Webcam (Bovec,M.Sobota,Koper)</string>
+    <string name="webcam_brnik">Webcam Brnik</string>
+    <string name="webcam_brnik_lisca_kredarica_">Webcam (Brnik,Lisca,Kredarica)</string>
+    <string name="webcam_hr_2">Webcam (Buzet,Roč,Hum)</string>
+    <string name="webcam_jap">Webcam JAP</string>
+    <string name="webcam_koka">Webcam KOKA</string>
+    <string name="webcam_koper">Webcam Koper</string>
+    <string name="webcam_kredarica">Webcam Kredarica</string>
+    <string name="webcam_lisca">Webcam Lisca</string>
+    <string name="webcam_ljub_mar_port">Webcam (Ljub,Maribor,Portorož)</string>
+    <string name="webcam_murska_sobota">Webcam Murska Sobota</string>
+    <string name="webcam_pleso_trnovec_samobor_">Webcam (Pleso,Trnovec,Samobor)</string>
+    <string name="webcam_sljeme">Webcam SLJEME</string>
+    <string name="welcome_message">Sve prikazane slike se spremaju lokalno i čuvaju određeno vrijeme, ovisno o samom periodu osvježivanja na njihovom izvoru. 
+        Ako koristite opcije izbornika, a vrijeme proteklo od zadnjeg prikaza iste slike nije veće od perioda osvježavanja uvijek će biti prikazana lokalno spremljena slika (iz cache-a).
+        Ako mislite da postoji ažurnija slika napravite long-tap na trenutno prikazanu sliku i ona će biti ponovno skinuta s pripadnog servera. 
+        \n\nZa većinu slika/dijagrama koji prikazuju prognozu za određeno vrijeme moguće je dohvatiti i ostale termine: tap na lijevu trećinu slike za prethodni termin, tap na desnu za sljedeći termin.
+		\n\nZa gore navedene slike/dijagrame moguće je pokrenuti (i zaustaviti) animaciju (automatski dohvat ostalih termina) s \'long tap\' na lijevoj ili desnoj trećini slike.
+		\n\nOsvježite sliku s \'long tap\' na srednjoj trećini slike.
+		\n\nTap na sredinu slike pokazati će ikone za \'Podijeli sliku\' i \'Pogledaj na punom zaslonu\' (podržan pinch-zoom). Ponovni tap sakriva ikone.
+		\n\nAplikacija nakon prvog korištenja na početnom ekranu prvo prikazuje listu najčešće korištenih opcija. Kroz postavke je moguće odabrati da se umjesto prikaza te liste automatski pokrene najčešće korištena opcija.
+</string>
+    <string name="zg_v_pj_2d_yrno_">ZG,VŽ,PJ - 2d (YRNO)</string>
+    <string name="zg_v_pj_3d_ma_">Meteogram 3d - ZG,VŽ,BJ</string>
+    <string name="zg_v_pj_4d_ma_">ZG,VŽ,PJ - 4d (MA)</string>
+</resources>

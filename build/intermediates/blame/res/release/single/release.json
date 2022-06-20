@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_menu_sat24.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-ldpi\\ic_menu_sat24.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_menu_weather.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-mdpi\\ic_menu_weather.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable_error.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_menu_razno.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-mdpi\\ic_menu_razno.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_menu_windcloud.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-ldpi\\ic_menu_windcloud.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable_background_form.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable\\background_form.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable_overflow.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable\\overflow.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_menu_radar.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-mdpi\\ic_menu_radar.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_menu_sat24.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-mdpi\\ic_menu_sat24.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\xml_tv_appwidget_info_2x2.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\xml\\tv_appwidget_info_2x2.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_menu_pgtakeoff.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-mdpi\\ic_menu_pgtakeoff.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\anim_left2right_enter.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\anim\\left2right_enter.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_menu_pgtakeoff.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-xhdpi\\ic_menu_pgtakeoff.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\xml_tv_appwidget_info_3x2.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\xml\\tv_appwidget_info_3x2.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_menu_pgtakeoff.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-ldpi\\ic_menu_pgtakeoff.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\xml_preferences.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_menu_radar.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-xhdpi\\ic_menu_radar.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable_background_share2.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable\\background_share2.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable_default200.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable\\default200.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\layout_share.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\layout\\share.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_menu_windcloud.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-hdpi\\ic_menu_windcloud.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\xml_tv_appwidget_info_2x3.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\xml\\tv_appwidget_info_2x3.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable_overflow_icon.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable\\overflow_icon.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\layout_widget_main.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\layout\\widget_main.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\layout_photo_full_screen.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\layout\\photo_full_screen.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\xml_tv_appwidget_info_3x3.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\xml\\tv_appwidget_info_3x3.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\xml_tv_appwidget_info_4x3.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\xml\\tv_appwidget_info_4x3.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_menu_radar.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-ldpi\\ic_menu_radar.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_menu_razno.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-hdpi\\ic_menu_razno.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\xml_tv_appwidget_info.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\xml\\tv_appwidget_info.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_menu_sat24.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-hdpi\\ic_menu_sat24.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_menu_windcloud.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-xhdpi\\ic_menu_windcloud.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\layout_grid.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\layout\\grid.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_menu_weather.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-hdpi\\ic_menu_weather.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_menu_sat24.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-xhdpi\\ic_menu_sat24.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\layout_welcome_dialog.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\layout\\welcome_dialog.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\xml_tv_appwidget_info_3x4.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\xml\\tv_appwidget_info_3x4.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_menu_pgtakeoff.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-hdpi\\ic_menu_pgtakeoff.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\menu_options_menu.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\layout-land_grid2.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\layout-land\\grid2.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\xml_tv_appwidget_info_4x4.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\xml\\tv_appwidget_info_4x4.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\layout-land_grid.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\layout-land\\grid.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\anim_right2left_enter.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\anim\\right2left_enter.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_menu_razno.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-xhdpi\\ic_menu_razno.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable_a9p_09_11_00408.9.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable\\a9p_09_11_00408.9.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\layout_cameras.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\layout\\cameras.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\anim_fade_in.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_menu_razno.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-ldpi\\ic_menu_razno.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_menu_weather.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-ldpi\\ic_menu_weather.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable_background_share.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable\\background_share.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\layout_grid2.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\layout\\grid2.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_menu_radar.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-hdpi\\ic_menu_radar.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\layout_grid_item.xml.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu_refresh.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_menu_windcloud.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-mdpi\\ic_menu_windcloud.png"
+    },
+    {
+        "merged": "C:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_menu_weather.png.flat",
+        "source": "C:\\workspace-android\\TrenutnoVrijeme\\res\\drawable-xhdpi\\ic_menu_weather.png"
+    }
+]

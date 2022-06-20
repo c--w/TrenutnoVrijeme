@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intervalWidgetTitle">
+        <item>2m</item>
+        <item>5m</item>
+        <item>10m</item>
+        <item>30m</item>
+        <item>1h</item>
+        <item>3h</item>
+        <item>6h</item>
+        <item>12h</item>
+    </string-array>
+    <string-array name="intervalWidgetValues">
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>720</item>
+    </string-array>
+    <string-array name="intervalTitle">
+        <item>1m</item>
+        <item>5m</item>
+        <item>10m</item>
+        <item>20m</item>
+    </string-array>
+    <string-array name="intervalValues">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="intervalTitleKOKA">
+        <item>2m</item>
+        <item>6m</item>
+        <item>30m</item>
+    </string-array>
+    <string-array name="intervalValuesKOKA">
+        <item>2</item>
+        <item>6</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="intervalTitleArso">
+        <item>10m</item>
+        <item>30m</item>
+        <item>60m</item>
+    </string-array>
+    <string-array name="intervalValuesArso">
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="intervalAnimationTitle">
+        <item>0.5s</item>
+        <item>0.8s</item>
+        <item>1s</item>
+        <item>1.5s</item>
+        <item>2s</item>
+    </string-array>
+    <string-array name="intervalAnimationValue">
+        <item>500</item>
+        <item>800</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+    </string-array>
+    <string-array name="widgetOptions">
+        <item>@string/sat24_hr</item>
+        <item>@string/sat24_eu</item>
+        <item>@string/radar_bilogora</item>
+        <item>@string/radar_osijek</item>
+        <item>@string/radar_puntijarka</item>
+        <item>@string/radar_kompozitni</item>
+        <item>@string/radar_lisca</item>
+        <item>@string/radar_fossalon</item>
+        <item>@string/munje</item>
+        <item>@string/slo_al_danas_925_12z</item>
+        <item>@string/slo_al_danas_850_12z</item>
+        <item>@string/slo_al_danas_naoblaka_12z</item>
+        <item>@string/slo_al_sutra_925_12z</item>
+        <item>@string/slo_al_sutra_850_12z</item>
+        <item>@string/slo_al_sutra_naoblaka_12z</item>
+        <item>@string/slo_al_prekosutra_925_12z</item>
+        <item>@string/slo_al_prekosutra_850_12z</item>
+        <item>@string/slo_al_prekosutra_naoblaka_12z</item>
+        <item>@string/dhmz_danas</item>
+        <item>@string/dhmz_sutra</item>
+        <item>@string/dhmz_1</item>
+        <item>@string/dhmz_2</item>
+        <item>@string/dhmz_3</item>
+        <item>@string/meteogram_3d_zagreb</item>
+        <item>@string/meteogram_3d_varazdin</item>
+        <item>@string/meteogram_3d_rijeka</item>
+        <item>@string/meteogram_3d_sinj</item>
+        <item>@string/meteogram_3d_plitvice</item>
+        <item>@string/meteogram_3d_motovun</item>
+        <item>@string/webcam_jap</item>
+        <item>@string/webcam_koka</item>
+        <item>@string/webcam_sljeme</item>
+        <item>@string/webcam_brnik</item>
+        <item>@string/webcam_lisca</item>
+        <item>@string/webcam_kredarica</item>
+        <item>@string/webcam_bovec</item>
+        <item>@string/webcam_murska_sobota</item>
+        <item>@string/webcam_koper</item>
+        <item>@string/modis_terra</item>
+        <item>@string/modis_aqua</item>
+        <item>@string/modis_slika_dana</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/camera_buttons"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:visibility="gone" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|left"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_share2"
+        android:padding="10dp"
+        android:text="nw"
+        android:visibility="visible" >
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_share2"
+        android:padding="10dp"
+        android:text="n"
+        android:visibility="visible" >
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|right"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_share2"
+        android:padding="10dp"
+        android:text="ne"
+        android:visibility="visible" >
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|left"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_share2"
+        android:padding="10dp"
+        android:text="w"
+        android:visibility="visible" >
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|right"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_share2"
+        android:padding="10dp"
+        android:text="e"
+        android:visibility="visible" >
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|left"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_share2"
+        android:padding="10dp"
+        android:text="sw"
+        android:visibility="visible" >
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_share2"
+        android:padding="10dp"
+        android:text="s"
+        android:visibility="visible" >
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_share2"
+        android:padding="10dp"
+        android:text="se"
+        android:visibility="visible" >
+    </TextView>
+
+</FrameLayout>

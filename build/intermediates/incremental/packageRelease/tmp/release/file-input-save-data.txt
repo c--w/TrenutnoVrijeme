@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 23 08:29:15 CET 2021
+0.baseType=DIRECTORY
+0.base=C\:\\workspace-android\\TrenutnoVrijeme\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
