@@ -115,9 +115,9 @@ public class TrenutnoVrijemeActivity extends BaseActivity {
 	static String MODIS_IOTD_URL = "https://modis.gsfc.nasa.gov/gallery/individual.php?db_date=%1$s";
 	static String SKEW_T_CMC = "http://meteocentre.com/models/gemglb_eur_%1$s/skewt/skewt_Zagreb_%2$03d.png";
 	//static String SKEW_T_PREP = "http://gamma.meteoadriatic.net/skewts/return.php?lat=%1$s&lon=%2$s&hh=%3$s";
-	static String SKEW_T_PREP = "http://gamma.meteoadriatic.net/meteoadriatic/ma2021/d01/skewts/return.php?lat=%1$s&lon=%2$s&hh=%3$s";
+	static String SKEW_T_PREP = "http://gamma.meteoadriatic.net/meteoadriatic/ma2022/skewts/return.php?lat=%1$s&lon=%2$s&hh=%3$s";
 	//static String SKEW_T = "http://gamma.meteoadriatic.net/skewts/output/%1$s-%2$s-%3$s.png?city=%4$s";
-	static String SKEW_T = "http://gamma.meteoadriatic.net/meteoadriatic/ma2021/d01/skewts/output/%1$s-%2$s-%3$s.png";
+	static String SKEW_T = "http://gamma.meteoadriatic.net/meteoadriatic/ma2022/skewts/output/%1$s-%2$s-%3$s.png";
 	//static String METEOGRAMI3d_PREP = "http://gamma.meteoadriatic.net/meteograms/return.php?lat=%1$s&lon=%2$s";
 	static String METEOGRAMI3d_PREP = "http://gamma.meteoadriatic.net/meteoadriatic/irb/arw/meteograms/return.php?lat=%1$s&lon=%2$s";
 	//static String METEOGRAMI3d = "http://gamma.meteoadriatic.net/meteograms/output/%1$s-%2$s.png";
