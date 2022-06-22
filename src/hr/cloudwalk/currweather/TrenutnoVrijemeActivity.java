@@ -2722,12 +2722,14 @@ public class TrenutnoVrijemeActivity extends BaseActivity {
 		case R.id.aladin_dubr:
 			loadAladin2("DUBR");
 			break;
-		case R.id.aladin_danas:
-			loadAladinDanas();
-			break;
-		case R.id.aladin_sutra:
-			loadAladinSutra();
-			break;
+//			-----> Old web site, removed
+//		case R.id.aladin_danas:
+//			loadAladinDanas();
+//			break;
+//		case R.id.aladin_sutra:
+//			loadAladinSutra();
+//			break;
+//			<-----
 		case R.id.aladin2_danas:
 			loadAladin2Danas();
 			break;
@@ -2856,7 +2858,7 @@ public class TrenutnoVrijemeActivity extends BaseActivity {
 			}
 		}
 		Toast.makeText(TrenutnoVrijemeActivity.this, "Opcija izbornika: '" + title + "' više ne postoji. Izbrišite thumbnail s 'LONG TAP'!.",
-				Toast.LENGTH_SHORT).show();
+				Toast.LENGTH_LONG).show();
 
 		return;
 	}

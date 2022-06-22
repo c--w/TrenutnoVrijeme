@@ -85,12 +85,13 @@
         android:icon="@drawable/ic_menu_windcloud"
         android:title="@string/vjetar_naoblaka_">
         <menu>
-            <item
-                android:id="@+id/aladin_danas"
-                android:title="@string/slo_aladin_2d_danas"/>
-            <item
-                android:id="@+id/aladin_sutra"
-                android:title="@string/slo_aladin_2d_sutra"/>
+<!--            Old web site, removed-->
+<!--            <item-->
+<!--                android:id="@+id/aladin_danas"-->
+<!--                android:title="@string/slo_aladin_2d_danas"/>-->
+<!--            <item-->
+<!--                android:id="@+id/aladin_sutra"-->
+<!--                android:title="@string/slo_aladin_2d_sutra"/>-->
             <item
                 android:id="@+id/aladin2_danas"
                 android:title="@string/slo_aladin_3d_danas"/>
